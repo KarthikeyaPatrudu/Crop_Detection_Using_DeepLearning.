@@ -91,7 +91,8 @@
   </table>
 
   <h2>📷 Sample Predictions</h2>
-  <p><img src="assets/sample_prediction.png" alt="Sample Prediction Image" width="400"></p>
+  <p><img src="assests/Screenshot 2025-07-23 224656.png" alt="Sample Prediction Image" width="400"></p>
+    <p><img src="assests/Screenshot 2025-07-23 224710.png" alt="Sample Prediction Image" width="400"></p>
 
  
   
