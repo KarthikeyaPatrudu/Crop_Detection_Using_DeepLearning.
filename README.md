@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Crop Detection using CNN</title>
+
 </head>
 <body>
 
@@ -93,20 +93,8 @@
   <h2>📷 Sample Predictions</h2>
   <p><img src="assets/sample_prediction.png" alt="Sample Prediction Image" width="400"></p>
 
-  <h2>🛠️ How to Run</h2>
-  <ol>
-    <li>Clone the repository:
-      <pre><code>git clone https://github.com/your-username/crop-detection-cnn.git
-cd crop-detection-cnn</code></pre>
-    </li>
-    <li>Install dependencies:
-      <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-    <li>Download and extract the PlantVillage dataset into the <code>data/</code> folder.</li>
-    <li>Run the notebook:
-      <pre><code>jupyter notebook crop_detection.ipynb</code></pre>
-    </li>
-  </ol>
+ 
+  
 
   <h2>🧪 Evaluation Metrics</h2>
   <ul>
